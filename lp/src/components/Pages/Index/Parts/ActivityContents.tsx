@@ -12,14 +12,14 @@ export const ActivityContents = () => {
           <ActivityContent
             title="不定期で誰でも開催・参加することができる勉強会"
             num="01"
-            description="U-labでは誰でも自分の勉強したことや、興味のあることを教え合う勉強会を自由に開催したり、他の人の勉強会に参加することができます。"
+            description="U-labでは誰でも自由に、勉強したことや興味のあることを教え合う勉強会を開催したり、他の人の開いた勉強会に参加したりすることができます。"
             imagePath="/images/lp1.png"
           />
 
           <ActivityContent
             title="不定期で誰でも開催・参加することができる勉強会"
             num="02"
-            description="U-labでは誰でも自分の勉強したことや、興味のあることを教え合う勉強会を自由に開催したり、他の人の勉強会に参加することができます。"
+            description="U-labでは、チームで協力して様々な面白いことを企てるチームプロジェクトというものがあります。大会やイベントに参加することもあります。"
             imagePath="/images/lp2.png"
           />
         </div>

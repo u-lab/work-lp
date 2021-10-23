@@ -13,21 +13,21 @@ export const TypicalProjects = () => {
         <div className="md:grid grid-cols-3 gap-6">
           <TypicalProject
             title="バーチャル宇都宮大学"
-            description="新入生や高校生がコロナ禍で大学自体に来れない問題を感じ、仮想空間にバーチャルな宇都宮大学を作成し、高校生に向けたオープンキャンパスを行った。"
+            description="新入生や高校生がコロナ禍で大学に来れない問題を解決するため、仮想空間にバーチャルな宇都宮大学を作成し、高校生に向けたオープンキャンパスを行いました。"
             imagePath="/images/lp-p1.png"
             href="https://2021.vr-uu.com"
           />
 
           <TypicalProject
             title="UU-Circles"
-            description="新入生がオンラインでも宇大のサークルを見つけることができるように、最新のweb技術を用いて、企画から構築・運用までを行った。"
+            description="新入生がオンラインでも宇大のサークルを見つけることができるように、最新のweb技術を用いて、企画から構築・運用までを行いました。"
             imagePath="/images/uu-circles.png"
             href="https://uu-circles.com"
           />
 
           <TypicalProject
             title="uu-yell"
-            description="新入生が宇都宮大学の情報を得ることが難しいという問題に対して、宇大生が中心となって、宇都宮大学生向けのメディアサイトを運営しています。"
+            description="新入生が宇都宮大学の情報を得ることが難しいという問題を解決するため、宇大生が中心となって、宇都宮大学生向けのメディアサイトを運営しています。"
             imagePath="/images/lp-p3.png"
             href="https://media.uu-circles.com"
           />

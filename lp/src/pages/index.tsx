@@ -8,7 +8,7 @@ import { BaseFooter } from "@/src/layouts/BaseFooter"
 const IndexPage: NextPage = () => {
   return (
     <>
-      <div className="relative">
+      <div className="overflow-hidden relative">
         <div className="right-top-rectangle" />
 
         <IndexHead />

@@ -8,15 +8,19 @@ import { BaseFooter } from "@/src/layouts/BaseFooter"
 const IndexPage: NextPage = () => {
   return (
     <>
-      <IndexHead />
+      <div className="relative">
+        <div className="right-top-rectangle" />
 
-      <MainDescription />
+        <IndexHead />
 
-      <ActivityContents />
+        <MainDescription />
 
-      <TypicalProjects />
+        <ActivityContents />
 
-      <BaseFooter />
+        <TypicalProjects />
+
+        <BaseFooter />
+      </div>
     </>
 
   )

@@ -21,7 +21,7 @@ export const TypicalProjects = () => {
           <TypicalProject
             title="UU-Circles"
             description="新入生がオンラインでも宇大のサークルを見つけることができるように、最新のweb技術を用いて、企画から構築・運用までを行った。"
-            imagePath="/uu-circles.png"
+            imagePath="/images/uu-circles.png"
             href="https://uu-circles.com"
           />
 

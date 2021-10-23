@@ -2,7 +2,7 @@ import Image from "next/image"
 
 export const MainDescription = () => {
   return (
-    <div className="flex justify-center pt-4 md:pt-20 pb-20 relative">
+    <div className="flex justify-center relative pt-4 md:pt-20 pb-20">
       <div style={{ maxWidth: 1000 }}>
         <div className="flex flex-col-reverse md:flex-row justify-center px-4 md:px-0">
           <div>

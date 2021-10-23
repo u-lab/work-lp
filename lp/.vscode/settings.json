@@ -1,0 +1,37 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.formatOnSave": true,
+  "eslint.validate": ["html", "javascriptreact", "typescriptreact"],
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+  "stylelint.enable": true,
+  "tailwindCSS.includeLanguages": {
+    "typescriptreact": "html"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.words": [
+    "Utas",
+    "bugsnag",
+    "chmod",
+    "datepicker",
+    "dropzone",
+    "fontawesome",
+    "fortawesome",
+    "gacha",
+    "gtag",
+    "intelephense",
+    "laravel",
+    "newjoy",
+    "peing",
+    "prefetch",
+    "swiper",
+    "tailwindcss",
+    "yoto",
+    "youtube"
+  ]
+}

@@ -1,5 +1,6 @@
 import { NextPage } from "next"
 import { ActivityContents } from "@/src/components/Pages/Index/Parts/ActivityContents"
+import { HopeToJoin } from "@/src/components/Pages/Index/Parts/HopeToJoin"
 import { IndexHead } from "@/src/components/Pages/Index/Parts/IndexHead"
 import { MainDescription } from "@/src/components/Pages/Index/Parts/MainDescription"
 import { TypicalProjects } from "@/src/components/Pages/Index/Parts/TypicalProjects"
@@ -18,6 +19,8 @@ const IndexPage: NextPage = () => {
         <ActivityContents />
 
         <TypicalProjects />
+
+        <HopeToJoin />
 
         <BaseFooter />
       </div>

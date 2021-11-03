@@ -17,7 +17,7 @@ export const ActivityContents = () => {
           />
 
           <ActivityContent
-            title="不定期で誰でも開催・参加することができる勉強会"
+            title="異なる専門の学生同士で企むチームプロジェクト"
             num="02"
             description="U-labでは、チームで協力して様々な面白いことを企てるチームプロジェクトというものがあります。大会やイベントに参加することもあります。"
             imagePath="/images/lp2.png"

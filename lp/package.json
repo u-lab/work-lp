@@ -10,6 +10,7 @@
     "analyze": "ANALYZE=true next build",
     "dev": "next -p 3000",
     "build": "next build",
+    "export": "next build && next export",
     "start": "next start",
     "format": "prettier --write \"**/*.{js,ts,tsx}\"",
     "lint": "eslint . --fix --ext ts --ext tsx --ext js",

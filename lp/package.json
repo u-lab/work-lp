@@ -69,6 +69,7 @@
     "eslint-plugin-tailwindcss": "^1.14.3",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^27.1.0",
+    "next-compose-plugins": "^2.2.1",
     "next-seo": "^4.26.0",
     "postcss": "8.3.6",
     "prettier": "^2.3.2",

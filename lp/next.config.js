@@ -1,10 +1,12 @@
 const path = require('path')
+const withPlugins = require('next-compose-plugins')
+const withExportImages = require('next-export-optimize-images')
 const withBundleAnalyzer = require('@next/bundle-analyzer')({
   enabled: process.env.ANALYZE === 'true',
 })
 // const withPWA = require('next-pwa')
 
-module.exports = withBundleAnalyzer({
+module.exports = withPlugins([withExportImages, withBundleAnalyzer], {
   env: {
     // Reference a variable that was defined in the .env file and make it available at Build Time
     API_URL: process.env.API_URL || 'http://localhost:8000',

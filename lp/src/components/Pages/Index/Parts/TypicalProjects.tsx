@@ -15,7 +15,7 @@ export const TypicalProjects = () => {
             title="バーチャル宇都宮大学"
             description="新入生や高校生がコロナ禍で大学に来れない問題を解決するため、仮想空間にバーチャルな宇都宮大学を作成し、高校生に向けたオープンキャンパスを行いました。"
             imagePath="/images/lp-p1.png"
-            href="https://2021.vr-uu.com"
+            href="https://www.virtual-utsunomiya-univ.com/"
           />
 
           <TypicalProject
